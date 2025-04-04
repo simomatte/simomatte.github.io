@@ -8,7 +8,7 @@ Full stack developer , IT and Media consultant , Radio Presenter in the weekends
 
 ## For business related inquiries
 
-![matteucci.dev logo](https://www.matteucci.dev/img/logo_bbg_500.png)
+![matteucci.dev logo](https://www.matteucci.dev/img/logo_bbg_250.png)
 
 Please contact me @ [matteucci.dev](https://www.matteucci.dev/)
 
