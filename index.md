@@ -18,4 +18,4 @@ For business related inquiries, please contact me @ [matteucci.dev](https://www.
 
 ## Public projects
 
-[Sonobus Docker AoO server](https://github.com/simomatte/sonobus-docker-aooserver)
+[Sonobus Docker AoO server](https://github.com/simomatte/sonobus-docker-aooserver) (also published in GHCR, GitHub Container Registry)
