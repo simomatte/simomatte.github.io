@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: simomatte - Simone Matteucci - matteucci.dev
+title: simomatte - Simone Matteucci
 description: Freelance @ matteucci.dev , Radio Presenter in the freetime :-)
 logo: https://avatars.githubusercontent.com/u/8506279
