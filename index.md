@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# For business inquries
+## For business inquries
 
 ![matteucci.dev logo](https://www.matteucci.dev/img/logo_bbg_500.png)
 
