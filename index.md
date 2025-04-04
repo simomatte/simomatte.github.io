@@ -6,11 +6,13 @@ Hi everyone! I'm Simone!
 
 Full stack developer , IT and Media consultant , Radio Presenter in the weekends
 
-## For business related inquiries
+* * *
+
+## Business related inquiries
 
 ![matteucci.dev logo](https://www.matteucci.dev/img/logo_bbg_250.png)
 
-Please contact me @ [matteucci.dev](https://www.matteucci.dev/)
+For business related inquiries, please contact me @ [matteucci.dev](https://www.matteucci.dev/)
 
 * * *
 
