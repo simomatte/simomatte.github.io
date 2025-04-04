@@ -12,4 +12,4 @@ Please contact me @ [matteucci.dev](https://www.matteucci.dev/)
 
 ## Public projects
 
-[Sonobus Docker AoO server](https://github.com/simomatte/sonobus-docker-aooserver).
+[Sonobus Docker AoO server](https://github.com/simomatte/sonobus-docker-aooserver)
