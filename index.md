@@ -4,7 +4,7 @@ layout: default
 
 Hi everyone! I'm Simone!
 
-Full stack developer | IT and Media consultant | Radio Presenter in the weekends
+Full stack developer , IT and Media consultant , Radio Presenter in the weekends
 
 ## For business related inquiries
 
