@@ -2,7 +2,11 @@
 layout: default
 ---
 
-## For business inquries
+Hi everyone! I'm Simone!
+
+Full stack developer | IT and Media consultant | Radio Presenter in the weekends
+
+## For business related inquiries
 
 ![matteucci.dev logo](https://www.matteucci.dev/img/logo_bbg_500.png)
 
